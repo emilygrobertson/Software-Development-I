@@ -1,0 +1,10 @@
+J:\lab4\lab4\lab4\obj\Debug\lab4.csprojAssemblyReference.cache
+J:\lab4\lab4\lab4\obj\Debug\lab4.Form1.resources
+J:\lab4\lab4\lab4\obj\Debug\lab4.Properties.Resources.resources
+J:\lab4\lab4\lab4\obj\Debug\lab4.csproj.GenerateResource.cache
+J:\lab4\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+J:\lab4\lab4\lab4\bin\Debug\lab4.exe.config
+J:\lab4\lab4\lab4\bin\Debug\lab4.exe
+J:\lab4\lab4\lab4\bin\Debug\lab4.pdb
+J:\lab4\lab4\lab4\obj\Debug\lab4.exe
+J:\lab4\lab4\lab4\obj\Debug\lab4.pdb

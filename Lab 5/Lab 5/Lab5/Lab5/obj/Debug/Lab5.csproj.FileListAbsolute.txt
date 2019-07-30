@@ -1,0 +1,14 @@
+J:\Lab 5\Lab5\Lab5\bin\Debug\Lab5.exe.config
+J:\Lab 5\Lab5\Lab5\bin\Debug\Lab5.exe
+J:\Lab 5\Lab5\Lab5\bin\Debug\Lab5.pdb
+J:\Lab 5\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+J:\Lab 5\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+J:\Lab 5\Lab5\Lab5\obj\Debug\Lab5.exe
+J:\Lab 5\Lab5\Lab5\obj\Debug\Lab5.pdb
+J:\Lab 5\Lab 5\Lab5\Lab5\bin\Debug\Lab5.exe.config
+J:\Lab 5\Lab 5\Lab5\Lab5\bin\Debug\Lab5.exe
+J:\Lab 5\Lab 5\Lab5\Lab5\bin\Debug\Lab5.pdb
+J:\Lab 5\Lab 5\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+J:\Lab 5\Lab 5\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+J:\Lab 5\Lab 5\Lab5\Lab5\obj\Debug\Lab5.exe
+J:\Lab 5\Lab 5\Lab5\Lab5\obj\Debug\Lab5.pdb
